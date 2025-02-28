@@ -1,4 +1,3 @@
-import './App.css'
 
 function App() {
     return <p className='font-bold'> Hola mundo! </p>
